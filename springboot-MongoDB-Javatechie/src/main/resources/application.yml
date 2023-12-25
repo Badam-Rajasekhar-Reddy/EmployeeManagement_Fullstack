@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongo:
+      uri:mongodb+srv://admin:admin@cluster0.dmzudqt.mongodb.net/
+      database:Task
+
+#spring:
+#  data:
+#    mongodb:
+#      host: localhost
+#      port: 27017
+#      database: SpringBootMongoDB
